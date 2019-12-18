@@ -1,0 +1,13 @@
+body { 
+   background-color: rgb(230, 230, 230);
+    color: rgb(30, 30, 30);
+    font-family: Helvetica; 
+ }
+
+ h1 {
+    color: black;
+    font-family: Helvetica;
+    letter-spacing: 9px;
+    font-size: 59px;
+    text-transform: uppercase;
+ }	
